@@ -1,3 +1,6 @@
+# Preview
+![Slide 16_9 - 1](https://github.com/BangkitCapstoneFIT/.github/assets/85327119/0908d73b-da2c-4687-835a-abac65f7a222)
+
 # Title of the Project
 <h3>Find Indonesian Tourism (FIT)</h3>
 <h5>Explore and Get Information On Your Travel Destination Easly</h5>
